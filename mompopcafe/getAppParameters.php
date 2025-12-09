@@ -7,8 +7,9 @@
   $db_url = "mysql";
   $db_name = "mom_pop_db";
   $db_user = "root";
-  $db_password = "Msois@123";
+  $db_password = "";
   
   // Display the server metadata information if the showServerInfo parameter is true.
   //include('serverInfo.php');
 ?>
+
