@@ -6,12 +6,13 @@
   $currency = "$";
   $db_url = "mysql";
   $db_name = "mom_pop_db";
-  $db_user = "root";
-  $db_password = "root123";
+  $db_user = "web";
+  $db_password = "web123";
   
   // Display the server metadata information if the showServerInfo parameter is true.
   //include('serverInfo.php');
 ?>
+
 
 
 
